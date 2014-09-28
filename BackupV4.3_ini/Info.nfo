@@ -1,0 +1,15 @@
+[DESCRIÇÃO]
+
+
+se usar o XCOPY o parametro usado e:/E /V /C /R /M /I
+
+se usar o robocopy o parametro usado e:/E /COPY:DATSOU /R:2 /W:2 /V /ETA /NP /LOG:
+
+se usar o comparcar o parametro usado e:a
+
+
+vista:
+shell "shutdown /f /s /t 1",vbhide
+
+xp:
+shell "shutdown -f -s -t 1",vbhide
